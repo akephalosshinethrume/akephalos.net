@@ -1,3 +1,14 @@
-baseURL = "http://example.org/"
+baseURL = "https://akephalos.net/"
 languageCode = "en-us"
-title = "My New Hugo Site"
+title = "Akephalos"
+theme = "grayscale"
+#googleAnalytics = ""
+disableKinds = ["taxonomy", "taxonomyTerm"]
+
+[params]
+    # Provide some metadata for search and indexing services
+    description = "Headless demon resting grounds."
+
+[Author]
+    name = "Akephalos"
+    email = "akephalos450@gmail.com"
