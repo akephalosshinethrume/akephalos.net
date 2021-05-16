@@ -4,6 +4,6 @@ weight: 1
 improvecontrast: true
 ---
 
-# Welcome
+# Welcome To The Cave
 
 Isn't this cave beautiful?
